@@ -1,7 +1,7 @@
 # SLBorrow
 StoryBoard实现首页现金贷基本跳转流程
 
-![效果图](./2017-07-17%19_03_36.gif)
+![效果图](./2017-07-17%2019_03_36.gif)
 
 # Contact me
 - 简书: [印林泉](http://www.jianshu.com/u/2af3405e4c97)
